@@ -1,0 +1,45 @@
+{
+    "posts": [
+        {
+            "content": "\u043f\u0440\u0438\u0432\u0435\u0442",
+            "comments": [
+                {
+                    "content": "dsfdsfs"
+                },
+                {
+                    "content": "fdsfds"
+                },
+                {
+                    "content": "fsdfsd"
+                },
+                {
+                    "content": "\u0430\u0432\u0438\u043f\u0432\u0430"
+                }
+            ]
+        },
+        {
+            "content": "\u0430\u044b\u0432\u043f\u0430\u044b\u0432",
+            "comments": []
+        },
+        {
+            "content": "\u0430\u044b\u0432\u043f\u0430\u044b",
+            "comments": [
+                {
+                    "content": "\u043b\u043e\u0443\u0446\u043a\u0440\u043e\u0443\u0446\u0440\u0434\u043b\u0430\u044b\r\n"
+                }
+            ]
+        },
+        {
+            "content": "\u0430\u0432\u044b\u043e\u043c\u0440\u043b\u044b\u0432",
+            "comments": []
+        },
+        {
+            "content": "\u0430\u0432\u044b\u0430\u044b",
+            "comments": [
+                {
+                    "content": "\u0430\u0432\u044b\u0430\u044b"
+                }
+            ]
+        }
+    ]
+}
